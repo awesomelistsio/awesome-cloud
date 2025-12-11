@@ -142,7 +142,7 @@
 
 ## Related Awesome Lists
 
-- [Awesome GCP](https://github.com/awesomelistsio/awesome-gcp)
+- [Awesome GCP](https://github.com/awesomelistsio/awesome-google-cloud-platform)
 - [Awesome AWS](https://github.com/awesomelistsio/awesome-aws)
 - [Awesome Docker](https://github.com/awesomelistsio/awesome-docker)
 - [Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)
