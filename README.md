@@ -129,6 +129,10 @@
 - [Anthos (Google Cloud)](https://cloud.google.com/anthos) – Hybrid and multi-cloud application modernization suite.
 - [Azure Arc](https://azure.microsoft.com/services/azure-arc/) – Extend Azure management to hybrid and multi-cloud environments.
 
+## Cloud Cost & Calculators
+
+- [CoreTechX](https://www.jslet.com/) — 51 free client-side cloud engineering & FinOps calculators. AWS egress cost (tiered pricing), NAT Gateway traffic multiplier, inter-AZ data transfer cost, idle resource waste quantification, RI vs spot breakeven (NPV model), multi-cloud instance equivalents, Graviton migration savings, serverless vs container vs VM cost breakeven, S3 lifecycle optimizer, cloud support plan ROI, datacenter PUE cost, CDN offload savings, and GPU training/inference cost across 6 providers. All in-browser — no signup, no tracking.
+
 ## Learning Resources
 
 ### Tutorials
