@@ -1,4 +1,4 @@
-# Awesome Cloud [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Cloud [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -148,11 +148,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome GCP](https://github.com/awesomelistsio/awesome-google-cloud-platform)
-- [Awesome AWS](https://github.com/awesomelistsio/awesome-aws)
-- [Awesome Docker](https://github.com/awesomelistsio/awesome-docker)
-- [Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)
-- [Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)
+- [Awesome GCP](https://github.com/brandonhimpfen/awesome-google-cloud-platform)
+- [Awesome AWS](https://github.com/brandonhimpfen/awesome-aws)
+- [Awesome Docker](https://github.com/brandonhimpfen/awesome-docker)
+- [Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)
+- [Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)
 
 ## Contribute
 
